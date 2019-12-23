@@ -1,0 +1,188 @@
+
+.starter-template {
+  padding: 1.5rem 1.5rem ;
+  text-align: center;
+}
+
+.head-bar {
+	background-color: #3b5998;
+    background-image: linear-gradient(#4e69a2, #3b5998 50%);
+    border-bottom: 1px solid #133783;
+    min-height: 42px;
+    position: relative;
+    z-index: 1;
+    min-width: max-content;
+}
+.loggedout_menubar_container{
+	height: 82px;
+    min-width: 980px;
+}
+.loggedout_menubar {
+    margin: 0 auto;
+    padding-top: 13px;
+    width: 980px;
+        zoom: 1;
+}
+
+.fb_logo {
+    background-image: url(https://static.xx.fbcdn.net/rsrc.php/v3/y4/r/gf6iHxsw8zm.png);
+    background-position: 0 0;
+    background-size: 100% 100%;
+    width: 170px;
+    height: 33px;
+    background-repeat: no-repeat;
+    display: inline-block;
+}
+
+a {
+    color: #385898;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+i.img u {
+    clip: rect(1px, 1px, 1px, 1px);
+    height: 1px;
+    left: auto;
+    overflow: hidden;
+    position: absolute;
+    white-space: nowrap;
+    width: 1px;
+}
+
+._ohe {
+    float: left;
+}
+._ohf {
+    float: right;
+}	
+
+.menu_login_container{
+	float: right;
+
+}
+.menu_login_container table tr td {
+    padding: 0 0 0 14px;
+}
+
+td, td.label {
+    text-align: left;
+}
+
+body, button, input, label, select, td, textarea {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 12px;
+}
+
+
+.html7magic {
+    padding-bottom: 4px;
+}
+
+label {
+    color: #fff;
+    font-weight: normal;
+    padding-left: 1px;
+}
+
+#email {
+    direction: ltr;
+}
+
+.inputtext .inputpassword {
+    border-color: #1d2a5b;
+    margin: 0;
+    width: 142px;
+}
+
+
+.uiButton, .uiButtonSuppressed:active{
+    border: 1px solid #ccd0d5;
+      border-radius: 2px;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 12px;
+    -webkit-font-smoothing: antialiased;
+    font-weight: bold;
+    line-height: 18px;
+    padding: 2px 6px;
+    text-align: center;
+    text-decoration: none;
+    text-shadow: none;
+    vertical-align: top;
+    white-space: nowrap;
+}
+.uiButtonConfirm {
+    background-color: #4267b2;
+    border-color: #29487d;
+}
+
+
+
+
+
+.uiButtonText, .uiButton input {
+    background: none;
+    border: 0;
+    color: #4b4f56;
+    cursor: pointer;
+    display: inline-block;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+    line-height: 18px;
+    margin: 0;
+    padding: 0;
+    white-space: nowrap;
+}
+form.async_saving .uiButton.uiButtonSpecial .uiButtonText, form.async_saving .uiButton.uiButtonSpecial input, form.async_saving .uiButton.uiButtonConfirm .uiButtonText, form.async_saving .uiButton.uiButtonConfirm input, .uiButtonSpecial .uiButtonText, .uiButtonSpecial input, .uiButtonSpecial.uiButtonDisabled .uiButtonText, .uiButtonSpecial.uiButtonDisabled input, .uiButtonConfirm .uiButtonText, .uiButtonConfirm input, .uiButtonConfirm.uiButtonDisabled .uiButtonText, .uiButtonConfirm.uiButtonDisabled input {
+    color: #fff;
+}
+
+
+.fb_content {
+    min-height: 640px;
+    padding-bottom: 20px;
+    background-color: #e9ebee;
+
+}
+
+#content {
+    margin: 0;
+    outline: none;
+    padding: 0;
+    width: auto;
+
+}
+._ihd {
+    font-size: 36px;
+    padding-bottom: 20px;
+    padding-top: 20px;	
+    
+    overflow: visible;
+    padding-right: 48px;
+    margin: auto;
+    width: 980px;
+
+}
+
+._3ma {
+    font-family: 'Freight Sans Bold', Helvetica, Arial, sans-serif !important;
+    font-weight: bold !important;
+    letter-spacing: normal;
+    text-rendering: optimizelegibility;
+}
+
+._6s {
+    color: #333;
+}	
+
+
+
+
+
+
+
+
+
+
