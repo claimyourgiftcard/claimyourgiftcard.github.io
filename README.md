@@ -1,1 +1,0 @@
-# claimyourgiftcard.github.io
